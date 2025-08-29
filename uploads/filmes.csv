@@ -1,0 +1,51 @@
+id,titulo,genero,ano,estudio,avaliacao,classificacao
+1,Eternal Horizon,Drama,2023,Universal,8.1,PG
+2,Shadows of Tomorrow,Suspense,1999,Netflix Originals,7.3,PG-13
+3,Crimson Dawn,Suspense,1998,Universal,6.1,NC-17
+4,Lost Dimension,Ficção Científica,2000,Universal,7.5,G
+5,Silent Echoes,Ficção Científica,2019,Universal,6.9,G
+6,Midnight Run,Suspense,2003,Sony,8.9,NC-17
+7,Digital Heart,Drama,2006,Netflix Originals,6.5,NC-17
+8,Broken Wings,Suspense,2022,Netflix Originals,5.8,NC-17
+9,Skyline Drift,Ação,2013,Disney,7.7,PG-13
+10,Neon Mirage,Comédia,2018,Sony,7.6,G
+11,Hidden Truth,Ação,2001,Paramount,8.0,R
+12,Iron Legacy,Suspense,1998,Sony,7.9,G
+13,Frozen Ashes,Drama,2010,Paramount,7.0,PG-13
+14,Ocean Deep,Comédia,2006,Netflix Originals,7.2,NC-17
+15,Golden Empire,Comédia,1998,Universal,7.6,PG
+16,Silver Bullet,Suspense,2002,Paramount,6.8,PG-13
+17,Dark Tide,Suspense,2010,Paramount,7.0,NC-17
+18,Celestial Road,Animação,2020,Universal,8.2,PG-13
+19,Blood Moon,Comédia,2022,Paramount,9.6,PG
+20,Final Gambit,Drama,2016,Universal,6.4,PG-13
+21,Infinite Loop,Drama,1999,Disney,9.4,PG
+22,Paper Planes,Animação,2010,Netflix Originals,9.6,NC-17
+23,Emerald Forest,Ficção Científica,2020,Disney,7.7,NC-17
+24,Crystal Dreams,Suspense,2006,Universal,5.6,G
+25,Phantom Lights,Suspense,2017,Sony,8.3,G
+26,Forgotten Path,Animação,2011,Warner Bros,9.5,NC-17
+27,Cinder Storm,Drama,2011,Netflix Originals,5.5,R
+28,Hollow Skies,Ação,2010,Netflix Originals,5.8,PG
+29,Nova Rising,Ação,2023,Netflix Originals,7.6,PG
+30,Black Horizon,Comédia,2018,Disney,9.2,R
+31,Arctic Blaze,Suspense,2009,Warner Bros,9.6,PG-13
+32,Urban Saints,Ficção Científica,2007,Disney,7.0,NC-17
+33,Cyber Pulse,Animação,2019,Sony,9.0,PG-13
+34,Fallen Star,Suspense,2019,Netflix Originals,9.3,PG
+35,Alpha Code,Ação,2005,Paramount,8.3,NC-17
+36,Quantum Rift,Suspense,1999,Universal,5.2,PG
+37,Dreamcatcher,Ação,2018,Netflix Originals,5.3,R
+38,Parallel Lines,Comédia,2015,Disney,5.6,G
+39,Echo Chamber,Suspense,2006,Disney,6.1,PG
+40,Gravity Well,Comédia,2009,Disney,7.3,NC-17
+41,Solar Edge,Comédia,2006,Disney,6.8,PG
+42,Crimson Shadows,Ação,2021,Warner Bros,9.6,NC-17
+43,Twilight Zone,Ação,2011,Universal,6.4,NC-17
+44,Hidden Agenda,Drama,2023,Disney,9.7,NC-17
+45,Zero Point,Ação,1995,Disney,7.2,R
+46,Broken Reality,Suspense,1995,Netflix Originals,8.6,R
+47,Iron Kingdom,Ação,2010,Warner Bros,5.8,NC-17
+48,Moonlight Sonata,Suspense,1997,Netflix Originals,5.4,NC-17
+49,Endless Voyage,Animação,2012,Universal,8.3,G
+50,Last Frontier,Drama,2001,Universal,5.1,R

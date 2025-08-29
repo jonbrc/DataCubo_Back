@@ -1,0 +1,6 @@
+id,nome,genero,plataforma,desenvolvedor,ano_lancamento,preco,avaliacao,jogadores_max,tamanho_gb,classificacao_etaria
+1,The Legend of Zelda: Breath of the Wild,Aventura,Nintendo Switch,Nintendo EPD,2017,59.99,9.3,1,13.4,T
+2,God of War,Ação/Aventura,PlayStation 4,Santa Monica Studio,2018,19.99,9.1,1,45.6,M
+3,Red Dead Redemption 2,Ação/Aventura,PC,Rockstar Games,2018,39.99,9.7,32,120.0,M
+... (dados omitidos para brevidade) ...
+100,Baba Is You,Indie,PC,Hempuli Oy,2019,14.99,8.6,1,200.0,E
